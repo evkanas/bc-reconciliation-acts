@@ -1,5 +1,7 @@
 # BC Reconciliation Acts
 
+Portfolio project by Evaldas Jablonskas, Microsoft Dynamics 365 Business Central AL / NAV Developer.
+
 Microsoft Dynamics 365 Business Central extension for generating customer and vendor reconciliation statements.
 
 ## Features
