@@ -2,6 +2,10 @@
 
 Portfolio project by Evaldas Jablonskas, Microsoft Dynamics 365 Business Central AL / NAV Developer.
 
+<p align="center">
+  <img src="evaldas-jablonskas-bc-reconciliation-acts.png" alt="Evaldas Jablonskas – BC Reconciliation Acts Business Central AL portfolio project" width="700">
+</p>
+
 Microsoft Dynamics 365 Business Central extension for generating customer and vendor reconciliation statements.
 
 ## Features
